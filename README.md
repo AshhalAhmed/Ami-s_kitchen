@@ -2,7 +2,9 @@
 
 Ami's Kitchen is a web application designed to help users organize and manage their recipes effectively.
 
-![Ami's Kitchen Screenshot](screenshot.png)
+![Ami's Kitchen Screenshot](https://img.hotimg.com/WhatsApp-Image-2024-02-26-at-21.33.50.jpeg)
+
+![Ami's Kitchen Screenshot](https://img.hotimg.com/WhatsApp-Image-2024-02-26-at-21.38.10.jpeg)
 
 ## Features
 
